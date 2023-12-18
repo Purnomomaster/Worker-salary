@@ -1,0 +1,3 @@
+x = int(input("Monthly salary: ")
+y = int(input("Hours worked on weekends: ")
+print("Bonus Amount:", x*0.01*y)
